@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Joy's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyerean&show_icons=true&theme=tokyonight&count_private=true)]
+![Joy's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyerean&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyerean&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyerean&layout=compact)
 <!--
 **joyerean/joyerean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

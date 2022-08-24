@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm vurrently working on
+I'm currently working on
 
 📋 Languages
 

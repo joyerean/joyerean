@@ -30,7 +30,8 @@ Others
 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-🌱 I’m currently learning ...
+<!--🌱 I’m currently learning ... -->
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{joyerean}/count.svg) 
